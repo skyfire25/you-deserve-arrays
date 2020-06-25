@@ -2,9 +2,36 @@
  * YOUR CODE HERE *
  ******************/
 
+function getFirstItemFrom(arr){
+return arr[0]
+}
+
+const nums= []
+getFirstItemFrom(nums)
+
+function getLastItemFrom(arr){
+return arr[arr.length -1]
+}
+
+function  getIndex3(arr){
+  if (arr.length < 4){
+return arr[arr.length -1]
+  }
+  return arr[3]
+
+
+function isLongList(arr){
+  
+if(arr.length > 10){
+  return arr[arr.length 
+
+}
+  }
 
 
 
+
+}
 
 
 

@@ -18,19 +18,13 @@ function  getIndex3(arr){
 return arr[arr.length -1]
   }
   return arr[3]
-
+}
 
 function isLongList(arr){
   
 if(arr.length > 10){
-  return arr[arr.length 
-
+  return arr[arr.length === 10]
 }
-  }
-
-
-
-
 }
 
 
